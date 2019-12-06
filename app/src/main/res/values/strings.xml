@@ -3,4 +3,6 @@
     <string name="Application_name">ちーむまねーじゃ</string>
     <string name="user">Guest</string>
     <string name="foottext">something</string>
+    <string name="regist">登録画面</string>
+    <string name="tmp">登録画面へ(練習)</string>
 </resources>
